@@ -3,7 +3,7 @@
 
 (work in progress)
 
-- If you receive an issue, evaluate if it is serious first, and if it is, do not respond or close it until it is fully addressed (unless you add to another issue). Closing the issue becomes a motivation to work on it and fully address it. Do not waste that opportunity if it is a serious issue, and definitely avoid making promises if you did not work on the issue yet. Remember that actions speak louder than words!
+- If you receive an issue, evaluate if it is serious first, and if it is, do not respond or close until it is fully addressed (unless you add to another issue). Closing the issue becomes a motivation to work on it and fully address it. Do not waste that opportunity if it is a serious issue, and definitely avoid making promises if you did not work on the issue yet. Remember that actions speak louder than words!
 - Make commits to incomplete open-source projects (ones that have not had v1.0 released yet) every other month at minimum, and preferably once per week 
 - When reporting an issue, provide a step-by-step scenario for reproducing the issue if it is easy to reproduce, and follow troubleshooting instructions that project owners might give you to help you troubleshoot the issue further.
 - Do not open an issue when the effort to implement a fix or a feature is so small. Open a pull request instead. 
