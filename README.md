@@ -1,4 +1,5 @@
 # Open-Source Etiquette
+## Authored by Andy Maleh
 
 (work in progress)
 
