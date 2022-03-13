@@ -2,7 +2,7 @@
 
 (work in progress)
 
-- If you receive an issue, do not close until fixed 
+- If you receive an issue, evaluate if it is serious first, and if so, do not close it until it is fully addressed (unless you add to another issue). Closing the issue becomes a motivation to work on it and fully address it. Do not waste that opportunity if it is a serious issue.
 - Make commits to incomplete open-source projects (ones that have not had v1.0 released yet) every other month at minimum, but preferably once per week 
 - When reporting an issue, provide a step-by-step scenario for reproducing the issue if it is easy to reproduce, and follow troubleshooting instructions that project owners might give you to help you troubleshoot the issue further.
 - Do not open an issue when the effort to implement a fix or a feature is so small. Open a pull request instead. 
