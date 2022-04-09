@@ -16,6 +16,7 @@
 - Always provide examples (aka samples) of how to use your open-source project. 
 - Documentation is optional in an open-source project because software engineers can always read the source code directly and try out examples to understand how it works, assuming the project has well-factored code and contains examples (aka samples). However, putting the effort into providing documentation greatly increases the popularity of an open-source project, so when possible, do your best to document your open-source project.
 - Never take sincere feedback defensively. Remember that if someone gives you feedback, it does not mean they think you are lacking in software engineering skills, yet it means they are interested enough in your project to do you the great favor of providing feedback that helps your project improve. Any feedback is pure gold that you must not let go to waste by rejecting, yet you should use as fuel to iron out the rough edges of your project. Rejecting feedback is always considered a sign of mediocrity. In fact, the irony is that rejecting feedback is what would tell others that you are lacking in software engineering skills, not the inverse.
+- Setup a chat room for your project (e.g. [Gitter](https://gitter.im/) or IRC) to help users get instant help and provide feedback.
 
 **Open-source project users:**
 
