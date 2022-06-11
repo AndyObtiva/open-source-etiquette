@@ -5,7 +5,7 @@
 
 **Everyone:**
 
-- Software engineers with less skill and experience must always be humble enough to defer to software engineers with more skill and experience in order to enable the best work possible to happen. After all, if newbie snowboarders encounter Shaun White on the snow mountain, they will obviously follow in his footsteps to learn the best snowboarding tricks, not the other way around. That said, deferring to a more skilled and experienced software engineer does not mean treating them as infallible. Everyone makes mistakes, so it is OK to point out error and challenge solutions, but that must be done respectfully (in deference) and with good intentions (not out of childish spite).
+- Software engineers with less skill and experience must always be humble enough to defer to software engineers with more skill and experience and accept advice by them in order to enable the best work possible to happen. After all, if newbie snowboarders encounter Shaun White on the snow mountain, they will obviously follow in his footsteps to learn the best snowboarding tricks, not the other way around. That said, deferring to a more skilled and experienced software engineer does not mean treating them as infallible. Everyone makes mistakes, so it is OK to point out error and challenge solutions, but that must be done respectfully (in deference) and with good intentions (not out of childish spite).
 
 **Open-source project users:**
 
