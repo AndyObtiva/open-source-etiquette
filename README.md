@@ -3,11 +3,11 @@
 
 (work in progress)
 
-**Everyone:**
+### Everyone:
 
 - Software engineers with less skill and experience must always be humble enough to defer to software engineers with more skill and experience and accept advice by them in order to enable the best work possible to happen. After all, if newbie snowboarders encounter Shaun White on the snow mountain, they will obviously follow in his footsteps to learn the best snowboarding tricks, not the other way around. That said, deferring to a more skilled and experienced software engineer does not mean treating them as infallible. Everyone makes mistakes, so it is OK to point out error and challenge solutions, but that must be done respectfully (in deference) and with good intentions (not out of childish spite).
 
-**Open-source project users:**
+### Open-source project users:
 
 - Generally, avoid asking questions about an open-source project before putting in the effort to try it yourself (unless you get stuck of course), as that is considered the lazy behavior of trolls, and you might get ignored for it. Respectful software engineers always give open-source projects the benefit of the doubt and do due diligence before asking questions to avoid wasting the project author's time.
 - Do not open an issue when the effort to implement a fix or a feature is very small. Open a pull request instead. Remember that open-source projects are a community effort. Finding a small issue or feature that is quick to implement is your opportunity to make a contribution!
@@ -15,7 +15,7 @@
 - Never put pressure on an open-source project's author if he is unavailable or too busy as that comes across as disrespectful given they offer the project as a free service and might discourage them from becoming available. There is never a need to sweat an author's lack of availability with open-source projects. The whole point of open-source is anybody can clone the code and make future changes themselves in a fork if the project's author becomes temporarily or permanently unavailable. And, Pull Requests make it possible to eventually merge the fork back in if the author does become available again. Furthermore, this can be an opportunity to learn a new codebase and improve your software engineering skills. Do not waste it by whining about an author's lack of availability.
 - Do not make promises to contribute to a project. Instead, contribute first, and then announce your contribution after you have done all the work for it. That gains you respect as a doer, not just a talker, and helps keep you motivated to contribute further given the tangible results of your finished contributions. Remember that people who make promises are a dime a dozen, but they gain zero respect unless they finish work on actual contributions. In fact, making promises often puts a lot of pressure on you to try to impress the people who heard your promises, to the point that it might stall you completely from actually following up on your promises and contributing. So, avoid promises and contribute directly instead! Only then will you be recognized as a true contributor.
 
-**Open-source project authors:**
+### Open-source project authors:
 
 - Always make frequent small releases instead of big ones to avoid falling for the trap of getting stuck with a huge blob of features that never feel "perfect" enough to release. I know many open-source projects that died that way. Do not let yours die that way too!
 - Try to make commits to incomplete open-source projects (ones that have not had version 1.0 yet) every other month at minimum, and preferably once per week. If you have more than one incomplete open-source project, make commits in no more than 3 projects at a time to ensure finishing them before moving on to others.
