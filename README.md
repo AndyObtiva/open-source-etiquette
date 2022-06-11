@@ -1,5 +1,5 @@
 # Open-Source Etiquette
-## By Andy Maleh (Author of [Glimmer](https://github.com/AndyObtiva/glimmer))
+## By [Andy Maleh](https://github.com/AndyObtiva) (Author of [Glimmer](https://github.com/AndyObtiva/glimmer))
 
 (work in progress)
 
