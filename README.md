@@ -3,7 +3,7 @@
 
 (work in progress)
 
-All the points made in this Open-Source Etiquette document are intuitively known and practiced by highly ethical and skilled software engineers.
+All the points made in this Open-Source Etiquette are intuitively known and practiced by highly ethical and skilled software engineers.
 
 ### Everyone:
 
