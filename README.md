@@ -21,6 +21,8 @@ All the points made in this Open-Source Etiquette are intuitively known and prac
 - If your company finds a certain open-source project useful, consider hiring the project author if he is available and/or dedicating company staff for contributing to the open-source project in collaboration with the project author. That would do your company and the open-source community a lot of good.
 - If you get stuck while learning a certain part of an open-source project, instead of opening issues for what potentially is an error on your part, hit up the project author on the project chat channel (e.g. Gitter or IRC). Even if the project author is busy, other users of the project might be available to answer your questions.
 
+...6 more to add
+
 ### Open-source project authors:
 
 - Always make frequent small releases instead of big ones to avoid falling for the trap of getting stuck with a huge blob of features that never feel "perfect" enough to release. I know many open-source projects that died that way. Do not let yours die that way too!
@@ -36,3 +38,5 @@ All the points made in this Open-Source Etiquette are intuitively known and prac
 - Never take sincere feedback defensively. Remember that if someone gives you feedback, it does not mean they think you are lacking in software engineering skills, yet it means they are interested enough in your project to do you the great favor of providing feedback that helps your project improve. Any feedback is pure gold that you must not let go to waste by rejecting, yet you should use as fuel to iron out the rough edges of your project. Rejecting feedback is always considered a sign of mediocrity. In fact, the irony is that rejecting feedback is what would tell others that you are lacking in software engineering skills, not the inverse.
 - Setup a chat room for your project (e.g. [Gitter](https://gitter.im/) or IRC) to help users get instant help and provide feedback.
 - If people try to waste your time by asking questions without having done any due dilligence, it is better to ignore their messages completely and close their issues right away as those people are effectively trolls and clearly do not belong to the demographic of strong software engineers that you should be targetting to begin with. So, do not waste any effort or time responding to them.
+
+...19 more to add
